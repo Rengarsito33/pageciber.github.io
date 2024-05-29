@@ -1,9 +1,9 @@
 <?php
 // Conexión a la base de datos
-$servername = "localhost";
-$username = "nombre_de_usuario";
-$password = "contraseña";
-$dbname = "nombre_de_la_base_de_datos";
+$servername = "22.22.22.22";
+$username = "admin";
+$password = "abc123.";
+$dbname = "CiberHome-Delivered";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
